@@ -6,7 +6,9 @@
 
 # This course is brilliant!!
 
-# This course is awesomeee
+# This course is awesomeee 2
+
+# This a great oportunity for learn moreee
 
 Curso para aprender **React** basado en proyectos.
 **[Todos los miércoles a las 18PM 🇪🇸 en Twitch](https://twitch.tv/midudev)**
